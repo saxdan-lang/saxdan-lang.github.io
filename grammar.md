@@ -254,6 +254,14 @@ Schat, schat, schat ! Schryde Gollum. Myn Schat ! O myn schat ! Daarup, als sye 
 Treasure, treasure, treasure! Gollum shouted. My treasure, oh my treasure! Thereupon, just as his eyes were raised to contemplate his spoils, he took a step too far, toppled over, swayed for a moment on the edge, then, with a cry, he fell. From the depths rose his last moan “Treasure” and it was done with him.
 </td>
 </tr>
+<tr>
+<td>
+In dat spraak af de Rohirrim, den name Halifirien bedäuded « den Heilige Berg ». For deren komst, et het in Sindarin Amon Anwar, den Majesteitshigel, en name wes grund nein, in Gondor, wist, auten (als dat was sien daarafter) den Suveränen ofder den amteerende Seneschalk. For de fau mensch wo dörd wyke fram den strat oh wandre under sye läuf, dat Wed bar in sy den grund af syn name, oh in dat Samspraak het et « Mürmelwed »
+</td>
+<td>
+In the language of the Rohirrim, the name Halifirien meant "the Sacred Mountain". Before their coming it was called in Sindarin Amon Anwar, the Hill of Majesty, a name of which no one in Gondor knew the reason for except (as it later turned out) the Sovereign or Superintendent in exercise. For the few men who dared to stray from the Road and wander beneath the foliage, the Wood carried within itself the reason for its name, and in Common Speech it was called "Whispering Wood."
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -268,11 +276,6 @@ in Mordorland waar de Schadus liggen
 Ein Ring tu herrsche dem äll, Ein Ring tu finde dem
 Ein Ring tu bringe dem äll, oh in Mörkhed tu binde dem
 in Mordorland waar de Schadus liggen. 
-
-
-In dat spraak af de Rohirrim, den name Halifirien bedäuded « den Heilige Berg ». For deren komst, et het in Sindarin Amon Anwar, den Majesteitshigel, en name wes grund nein, in Gondor, wist, auten (als dat was sien daarafter) den Suveränen ofder den amteerende Seneschalk. For de fau mensch wo dörd wyke fram den strat oh wandre under sye läuf, dat Wed bar in sy den grund af syn name, oh in dat Samspraak het et « Mürmelwed »
-
-In the language of the Rohirrim, the name Halifirien meant "the Sacred Mountain". Before their coming it was called in Sindarin Amon Anwar, the Hill of Majesty, a name of which no one in Gondor knew the reason for except (as it later turned out) the Sovereign or Superintendent in exercise. For the few men who dared to stray from the Road and wander beneath the foliage, the Wood carried within itself the reason for its name, and in Common Speech it was called "Whispering Wood."
 
 
 Poème en suédois de J.Runeberg : 
