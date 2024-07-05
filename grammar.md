@@ -193,41 +193,69 @@ un-: accented negative prefix
 
 # Translation Examples
 
+<table>
+<thead>
+<th><td>Germanisch</td><td>English</td></th>
+</thead>
+<tbody>
+<tr>
+<td>
 De grote infäll (5tet jaarhundred) : 
 Den lag änder sy an den beginn af dat 5te jaarhundred. Up den eine syde is dat Romäne Rik swakend, oh syn deling in two, in 395, hav for allt leded tu stacke in den Öst de wermiddels, latend den West tu unbeschütted. Op den andre syde, serjöse evenemente sche in de unkennde länd (disdäg Polen, Ukraine, Russland) : kommen fram Middelazjen, türkisch-mongolische nomaden, de Hün, ryd westwards, dryvend met sy overwonnene fölk. Af selsamt aspekte, sejd tu wese wild, die fororsak en ekten paniken under de germanische fölk welche flie for dem. En enormt kaos schak den germanische werld och kast tu den romäne grens somme schreckte fölk welche sok tuflukt in dat Rik. 
 In winter 406-407, den Rhyngrens is dwungen af de Vandalen när Köln. Göten, Fränken, Sweeb, Allamannen, Burgunder laup tu Galljen in hele stäm, met wyv oh bärn. Rydend südwarts tu Italjen, den Westgoten Alarik infall oh plunder Rom in 410. In 429, den Vandalen Geiserik reich Nordafrika oh erober dat aktuelle Algerjen. In 441, de Änglen oh de Säxen beset Britannjen (dat aktuelle England) oh dryv bak de keltische inheimisch ; in dat 6te jaarhundred, mäng flie tu Aremorika, waaraut die mak en litelt Britannjen. 
-
+</td>
+<td>
 “The Great Invasions (5th century)
 The situation changed at the beginning of the 5th century. On the one hand, the Roman Empire was weakened, and its division into two, in 395, mainly led to the concentration of defense resources in the East, leaving the West relatively poorly protected. On the other side, serious events are taking place in unknown lands (nowadays Poland, Ukraine, Russia): coming from Central Asia, Turko-Mongol nomads, the Huns, are riding towards the west, bringing with them vanquished peoples. With a strange appearance and a reputation for ferocity, they caused real panic among the Germanic peoples who fled before them. An enormous chaos shakes the Germanic world and throws terrified peoples seeking refuge in the Empire towards the Roman border.
 During the winter of 406-407, the Rhine border was forced by the Vandals near Cologne. Goths, Franks, Suevi, Alemanni, Burgundians flock to Gaul in entire tribes, with women and children. Riding south into Italy, the Visigoth Alaric took and plundered Rome in 410. In 429, the Vandal Genseric reached North Africa and conquered what is now Algeria. In 441, the Angles and Saxons occupied Brittany (present-day England) and pushed back the Celtic natives; in the 6th century, many fled to Armorica, which they made into a little Brittany.
-
-
+</td>
+</tr>
+<tr>
+<td>
 Den germanische West
 
 After den fall af dat Westrik (476), den alderdomlige civilisasjonen fortset syn evolusjonen in dat Östrik, bliven intakt. In den West, daargen, den deling af dat territorjum twen de germanische infäller led kwick tu en almen bakgang : de Grote Infäll af dat Vte jaarhundred hav ruineerd den ökonomische aktiviteit ; städ är praktisch forsakt oh den bruk af mönt hav urden exepsjionell. 
-
+</td>
+<td>
 The Germanic West
 
 After the fall of the Western Empire (476), ancient civilization continued its evolution in the Eastern Empire, which remained intact. In the West, on the contrary, the sharing of territory between the Germanic invaders quickly led to a general regression; the Great Invasions of the 5th century ruined economic activity; the towns are practically abandoned and the use of money has become exceptional.
-
+</td>
+</tr>
+<tr>
+<td>
 In alle territorja af dere eröbring had de Romänen bäud talriche städ welche en wydt netwerk af wel bybeholdene strät forband. Europas fölk had so kund fastsete fruktbare handelsautvexling makd lyt av dat fakt dat die war underkasted tu de same löw oh sprak dat same spraak. Disen livewyse ward änderd af den ankomst af de Germanen. Dise wyde sy for allt tu landbruk oh mest war nit intereseerd af de grote steinstäd welche de Romänen had bäud. Die levde in dörp met häus aut wed oh lerklining. Um dise dörp lag äker af rog, wete ofder baris, oh hege for dat fie. De Germanen wov schapwul tu make sy kled. Wyv bar lange skört oh männ schorte hämit over bröx. Brösch smückt met juvelen djende tu loke de dicke jacke aut wul ofder pels welche färdigstellde dise dräht.
-
+</td>
+<td>
 In all the territories of their conquests, the Romans had built numerous cities which were connected by a vast network of roads. The peoples of Europe were thus able to establish fruitful commercial exchanges facilitated by the fact that they were subject to the same laws and spoke the same language. This way of life was changed by the arrival of the Germans. They were mainly devoted to agriculture and most were not interested in the great stone cities that the Romans had built. They lived in villages with houses of wood and cob. Around these villages were fields of rye, wheat or barley, and enclosures for livestock. The Germans weaved sheep's wool to make clothing. Women wore long dresses and men short shirts over pants. Jeweled brooches were used to fasten the heavy wool or fur coats that completed these outfits.
-
-
+</td>
+</tr>
+<tr>
+<td>
 Et is fortalt dat Frodo den Hobbit akcepteerde Mithrandirs updrag, dat hi kräutsed naht oh fären met en djener, dat hi reiched Wurdsberg trots Saurons vräde oh dat hi kasted in de flamme waar den had wesen smeded den Grote Mahtring der was endelig stört oh syn ivle kraft forbrukt. 
-
+</td>
+<td>
 It is said that Frodo the Hobbit accepted Mithrandir's mission, that he went through night and danger with a servant, that he reached the Mountain of Doom despite Sauron's anger and that he threw the Great Ring of Power which was finally destroyed and its evil force consumed.
-
-
+</td>
+</tr>
+<tr>
+<td>
 Wyl Woden oh Tiewe representeer in den gödwerld two aspekte af suveräniteit – den magische maht oh den kraft af den rehtsfordrag -, Donder is full den Krigsgod, bewaapend met syn schreckende blixlyke hammer. Alltyd rysend, tu fut ofder in en wagen dragen af böck, up den sok for rise, wem hi lik autrote. De Aas kall Donder elchen tyd wen die är drud ofder overfallen af dere fijänd. Fram disen brutale kriger afhang, in den epische tradisjonen, en helt lyk Starkader, wyl junge forledende krigers lyk Sigurd är Wodens favoriten. 
-
+</td>
+<td>
 If Odin and Tyr represent two aspects of sovereignty in the world of the gods – magical power and the force of the legal contract – Thor is fully the God of War, armed with his terrifying lightning hammer. Traveling all the time, on foot or in a cart pulled by goats, in search of giants, which he likes to exterminate. The Aesir call upon Thor whenever they are threatened or attacked by their enemies. Attached to this brutal warrior, in epic tradition, is a hero like Starkather, while attractive young warriors like Siegfried are favorites of Odin.
-
-
+</td>
+</tr>
+<tr>
+<td>
 Schat, schat, schat ! Schryde Gollum. Myn Schat ! O myn schat ! Daarup, als sye äug betrahted up tuwards syt bäute, hi makte ein stäp tu fer, wackelde, swang ein augblick up den rand, tan, met en schry, hi fell. Fram de diepd kam up syn latste stöning « Schat » oh dat was syn ende.
-
+</td>
+<td>
 Treasure, treasure, treasure! Gollum shouted. My treasure, oh my treasure! Thereupon, just as his eyes were raised to contemplate his spoils, he took a step too far, toppled over, swayed for a moment on the edge, then, with a cry, he fell. From the depths rose his last moan “Treasure” and it was done with him.
+</td>
+</tr>
+</tbody>
+</table>
 
 
 Le poème de l'Anneau : 
