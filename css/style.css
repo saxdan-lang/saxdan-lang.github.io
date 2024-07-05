@@ -4,13 +4,19 @@
 	src: url("modern-hand-fraktur.regular.ttf");
 }
 
+@font-face {
+	font-family: Fanhen;
+	font-weight: normal;
+	src: url("fanhen.regular.otf");
+}
+
 .hero {
 	text-align: center;
 }
 
 #mainTitle {
-	font-size: 400%;
-	font-family: ModernHandFraktur, serif;
+	font-size: 300%;
+	font-family: Fanhen, serif;
 }
 
 body {
