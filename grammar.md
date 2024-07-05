@@ -131,8 +131,10 @@ The preterite and the past participle of regular (“weak”) verbs are formed b
 
 The ablaut of strong verbs whose root ends in a consonant can be grouped into several classes:
 
+```
 I: yC/iC:iV
 IV: eC/aC/oC
+```
 
 Germanic has no future tense (it uses modals for that, or simply adverbs, or even the present tense if the meaning is obvious). On the other hand, it has a synthetic conditional which corresponds to the form of the preterite with if possible umlaut on the stressed vowel of the verbal root and addition of -e. The three irregular conditionals are “would” = wär, “should” = schoud, and “would” = woud
 
