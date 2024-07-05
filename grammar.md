@@ -2,7 +2,9 @@
 
 As its name suggests, Germanisch is a pan-Germanic language that draws on similarities between the three main blocks of modern Germanic languages: English, Scandinavian languages ​​and continental Germanic languages ​​(German-Dutch spectrum).
 
-## Phonetic
+<img src="/assets/germanishBlocks.png">
+
+## Phonetics
 
 With the exception of lexical borrowings, Germanic words are accented on the first vowel of the root. In compound words, the main stress is on the first element.
 

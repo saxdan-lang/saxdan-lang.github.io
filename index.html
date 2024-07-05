@@ -60,7 +60,17 @@
     </ul>
     <div id="grammar"></div>
     <script>
-      document.getElementById('grammar').innerHTML = marked.parse("grammar.md");
+      fetch("grammar.md").then(function(response) {
+          if (response.status !== 200) {
+              throw response.status;
+          }
+          return response.text();
+          document.getElementById('grammar').innerHTML = `<p>${response.text()}</p><p>Something didn't work!</p>`;
+      }).then(function(file_content) {
+          document.getElementById('grammar').innerHTML = marked.parse(file_content);
+      }).catch(function(status) {
+          document.getElementById('grammar').innerHTML = `<p>Error: ${status}</p><p>Something didn't work!</p>`;
+      });
     </script>
 	</body>
 </html>
