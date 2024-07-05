@@ -6,6 +6,7 @@ As its name suggests, Germanisch is a pan-Germanic language that draws on simila
 
 With the exception of lexical borrowings, Germanic words are accented on the first vowel of the root. In compound words, the main stress is on the first element.
 
+```
 “au” = ['aʊ]
 “c” is pronounced [s] before e, i & y. Before “k”, it is [k]. “ch” = [tʃ]
 “e” is [e] as the first of a word, stressed vowel or central vowel of a root. Otherwise it is [ə]. “ei” = [ej]
@@ -19,6 +20,7 @@ With the exception of lexical borrowings, Germanic words are accented on the fir
 “u” = [u]
 “w” is pronounced between [w] and [v]
 “y” = [aj]
+```
 
 The simple vowels a, o & u can carry an “umlaut” = ¨ (ä, ö & ü) and become [ɛ], [ø] and [y] respectively. Diphthongs and double vowels cannot have an umlaut, except “äu” = [œy]. A double vowel is long.
 
@@ -27,7 +29,7 @@ When endings are added, if the last vowel of the word before addition is an unst
 
 ## Nouns
 
-Germanic has two genders: common and neuter, determined arbitrarily and which must be learned with the noun. Only personal pronouns distinguish between masculine and feminine (for living beings). The singular definite article for the common is “den”, for the neuter “dat”; for both genders, the plural definite article is “de” = [də]. For both genders, the singular indefinite article is “en” = [ən].
+Germanic has two genders: common ("utrum") and neuter ("ne-utrum"), determined arbitrarily and which must be learned with the noun. Only personal pronouns distinguish between masculine and feminine (for living beings). The singular definite article for the common is “den”, for the neuter “dat”; for both genders, the plural definite article is “de” = [də]. For both genders, the singular indefinite article is “en” = [ən].
 
 The plural is determined as follows:
 
@@ -37,23 +39,21 @@ Words of Latin origin ending in -um replace it with -a.
 
 Otherwise, we try to put an umlaut on the first syllable (stressed, except prefix) of the root (in compound words, it is the last term which is concerned), and if this is impossible, we try on the following vowels, even unstressed from the root (not the suffixes!), and provided that the vowel is followed by at least one consonant.
 
-“nose”: nas > näs
-“body”: liham > lihäm
+> “nose”: nas > näs
+> “body”: liham > lihäm
 
 If this is not possible, words accented on the first vowel of the root and whose last vowel is an unstressed “e” before one or more consonants, use an -s:
 
-“finger”: finger > fingers
+> “finger”: finger > fingers
 
 Other polysyllabic words designating an animate being with a common gender accented on the first vowel of the root and whose last vowel (before one or more consonants) is not “e” can use “-e”.
 
-“herring”: hering > heringe
+> “herring”: hering > heringe
 
 
 Finally, nouns not falling into any of the previous categories are also invariable. This is particularly the case for borrowings which are not stressed on the first vowel of the word.
 
-“student”: studenten = [stu'dentən] (invariable)
-
-
+> “student”: studenten = [stu'dentən] (invariable)
 
 Modern Germanic no longer has any declension, with the exception of the possible ending of genitive -s on noun, which can thus be applied, as in English or Scandinavian, to an entire noun group.
 
@@ -64,19 +64,19 @@ The subject attribute adjectives and those in apposition are invariable. Likewis
 
 Epithet adjectives agree with their noun and are placed between the article (or pronoun) and the noun. If the article or pronoun is already marked in gender or number, the ending of the adjective is -e. Otherwise, in the singular, it is -en for common, -t for neuter, and -e for plural. Examples:
 
-“the blind man” = den blinde mann; “blind men” = de blinde männ
-“a blind man” = en blinden mann; “blind men” = blinde männ
+> “the blind man” = den blinde mann; “blind men” = de blinde männ
+> “a blind man” = en blinden mann; “blind men” = blinde männ
 
-“the good country” = dat gude land; “the good countries” = from gude länd
-“a good country” = in gudt land; “good countries” = gude länd
+> “the good country” = dat gude land; “the good countries” = from gude länd
+> “a good country” = in gudt land; “good countries” = gude länd
 
 The comparative is in -er... dan, and the superlative in -(e)st. If possible, the stressed vowel carries the umlaut.
 
 Irregularities: “good” = gud/better/best, “bad” = ivel/wärs/wärst and “small” = litel/minder/minst
 
-Den grötst af jure frükt is jurn per, de minst grot jure kirsch = “The largest of your fruits is your pear, the smallest your cherries”
+> Den grötst af jure frükt is jurn per, de minst grot jure kirsch = “The largest of your fruits is your pear, the smallest your cherries”
 
-Say wo hav arbeided mest andfo de dickste frükt; say wo hav arbeided fau andfo de minste frükt = “Those who have worked the hardest receive the largest fruits; those who have worked little receive the smallest fruits”
+> Say wo hav arbeided mest andfo de dickste frükt; say wo hav arbeided fau andfo de minste frükt = “Those who have worked the hardest receive the largest fruits; those who have worked little receive the smallest fruits”
 
 Adverbs correspond to the bare form of the adjective, except for wel = “good”, and ill = “bad”.
 
@@ -85,28 +85,28 @@ Adverbs correspond to the bare form of the adjective, except for wel = “good�
 
 |                            | Nominatif | Oblique | Base du pronom possessif |
 |----------------------------|-----------|---------|--------------------------|
-| 1° personne singulier      | ik        | my      | my-                      |
-| 2° personne singulier      | du        | dy      | dy-                      |
-| 3° personne singulier masculin | hi    | him     | sy-                      |
-| 3° personne singulier féminin | si     | her     | her-                     |
-| 3° personne singulier commun | den    | den     | sy-                      |
-| 3° personne neutre         | et        | et      | sy-                      |
-| 1° personne pluriel        | wi        | os      | or-                      |
-| 2° personne pluriel        | ie        | jer     | jur-                     |
-| 3° personne pluriel        | die       | dem     | der-                     |
+| 1° person singular      | ik        | my      | my-                      |
+| 2° person singular      | du        | dy      | dy-                      |
+| 3° person singular masculine | hi    | him     | sy-                      |
+| 3° person singular feminine | si     | her     | her-                     |
+| 3° person singular common | den    | den     | sy-                      |
+| 3° person neuter         | et        | et      | sy-                      |
+| 1° person plural        | wi        | os      | or-                      |
+| 2° person plural        | ie        | jer     | jur-                     |
+| 3° person plural        | die       | dem     | der-                     |
 
 
 “den” is used for common “asexual” nouns. “ie” is also used for polite “vouvoiement”. Dat can be used as a general pronoun (“it”). It is opposed to dis (“this”) which is also (with endings) the basis of the demonstrative pronoun/adjective.
 
 The oblique corresponds to both the direct and indirect object, and when the pronoun comes after a preposition. The pronoun having a dative meaning precedes the accusative.
 
-Ik giv him et = “I give him that”
+> Ik giv him et = “I give him that”
 
 The thoughtful is sy. Otherwise, we can suffix selv to pronouns.
 
 Gender endings (-[e]n, -t, -e) are added to the bases of possessive pronouns/adjectives which then function as a definite article.
 
-Den per is myn = “the pear is mine”
+> Den per is myn = “the pear is mine”
 
 
 ## Relative pronouns
@@ -131,10 +131,9 @@ The ablaut of strong verbs whose root ends in a consonant can be grouped into se
 I: yC/iC:iV
 IV: eC/aC/oC
 
-
 Germanic has no future tense (it uses modals for that, or simply adverbs, or even the present tense if the meaning is obvious). On the other hand, it has a synthetic conditional which corresponds to the form of the preterite with if possible umlaut on the stressed vowel of the verbal root and addition of -e. The three irregular conditionals are “would” = wär, “should” = schoud, and “would” = woud
 
-Wen ik wär rich, käupte ik en haus = “If I were rich, I would buy a house”
+> Wen ik wär rich, käupte ik en haus = “If I were rich, I would buy a house”
 
 Germanic can form a perfect with the verb have + past participle.
 
@@ -144,20 +143,19 @@ Modern Germanic no longer uses person endings in the modern language. In a point
 
 The verb to be = wese is very irregular: in the present tense: är except in the third person singular = is. In the past tense: was in the singular, war in the plural. The conditional is wär and the past participle wesen.
 
-
 Modal verbs express nuances and are used with the infinitive not preceded by you. Their present is the old form which was only valid for the singular.
 
-| Infinitif | Présent | Prétérit | Participe Passé | Conditionnel |
+| Infinitif | Present | Past Tense | Past Participle | Conditional |
 | --- | --- | --- | --- | --- |
-| Bedurve (avoir besoin) | bedarf | bedurft | bedurft | bedürfte |
-| Döre (oser) | dör | dörd | dörd | dörde |
-| Kunne (pouvoir) | kann | kunnd | kunnd | künnde |
-| Moge (avoir le droit de) | mog | mohd | mohd | möhde |
-| Muste (devoir - obligation) | must | muste | must | müste |
-| Schulle (devoir - conseil) | schall | schuld | schuld | schould |
-| Werde (devenir) | werd | ward | urden | ürde |
-| Wille (vouloir) | will | wilt | wilt | woud |
-| Witte (savoir) | weit | wist | wist | wiste |
+| Bedurve (to need) | bedarf | bedurft | bedurft | bedürfte |
+| Döre (to dare) | dör | dörd | dörd | dörde |
+| Kunne (can) | kann | kunnd | kunnd | künnde |
+| Moge (to have the right) | mog | mohd | mohd | möhde |
+| Muste (must) | must | muste | must | müste |
+| Schulle (should) | schall | schuld | schuld | schould |
+| Werde (to become) | werd | ward | urden | ürde |
+| Wille (to want) | will | wilt | wilt | woud |
+| Witte (to know) | weit | wist | wist | wiste |
 
 With a past participle, werde corresponds to the French expression “se faire + infinitive” (transitive); with an infinitive, it expresses a probability in the future (in other tenses using the conditional)
 
@@ -176,6 +174,7 @@ The epithet adjective is placed before the noun, unless it introduces a compleme
 
 ## Derivation
 
+```
 -bar: -ble; adjective of possibility on verb
 -d: (and umlaut if possible) forms common quality nouns on measurement adjectives. Ex: diep > diepd “depth”
 -dom: quality suffix, common gender
@@ -188,6 +187,7 @@ or-: accented prefix meaning “original, of origin”
 -schap: common suffix forming qualities, abstractions
 un-: accented negative prefix
 -wards: suffix forming an adverb of direction, the adjective is in -ward
+```
 
 # Translation Examples
 
@@ -260,12 +260,8 @@ In dat spraak af de Rohirrim, den name Halifirien bedäuded « den Heilige Berg 
 In the language of the Rohirrim, the name Halifirien meant "the Sacred Mountain". Before their coming it was called in Sindarin Amon Anwar, the Hill of Majesty, a name of which no one in Gondor knew the reason for except (as it later turned out) the Sovereign or Superintendent in exercise. For the few men who dared to stray from the Road and wander beneath the foliage, the Wood carried within itself the reason for its name, and in Common Speech it was called "Whispering Wood."
 </td>
 </tr>
-</tbody>
-</table>
-
-
-Le poème de l'Anneau : 
-
+<tr>
+<td>
 Drie ring for de elfköning under den himmel
 Seven for de Dwergherrens in dere steinsäl
 Nyn for de däudlige mensch
@@ -274,7 +270,19 @@ in Mordorland waar de Schadus liggen
 Ein Ring tu herrsche dem äll, Ein Ring tu finde dem
 Ein Ring tu bringe dem äll, oh in Mörkhed tu binde dem
 in Mordorland waar de Schadus liggen. 
-
+</td>
+<td>
+Three Rings for the Elven-kings under the sky,
+Seven for the Dwarf-lords in their halls of stone,
+Nine for Mortal Men doomed to die,
+One for the Dark Lord on his dark throne
+In the Land of Mordor where the Shadows lie.
+One Ring to rule them all, One Ring to find them,
+One Ring to bring them all, and in the darkness bind them
+In the Land of Mordor where the Shadows lie.</td>
+</tr>
+</tbody>
+</table>
 
 Poème en suédois de J.Runeberg : 
 
