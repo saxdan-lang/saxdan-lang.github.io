@@ -4,8 +4,12 @@
 	src: url("modern-hand-fraktur.regular.ttf");
 }
 
+.hero {
+	text-align: center;
+}
+
 #mainTitle {
-	font-size: 300%;
+	font-size: 400%;
 	font-family: ModernHandFraktur, serif;
 }
 
