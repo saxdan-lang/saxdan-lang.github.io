@@ -26,15 +26,20 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 	</head>
 	<body>
+    
 		<img src="/assets/GermanischLogo.png" id="logo" alt="Germanisch logo">
 
     <div class="hero">
       <h1 id="mainTitle">Germanisch</h1>
       <p>Auxiliary Language for the Germanic Linguistic Family</p>
     </div>
+    <hr>
+
     <h1>👉 <a href="/dictionary">Dictionary</a></h1>
+
     <h1>👇 Grammar</h1>
     <div id="grammar"></div>
+
     <script>
       fetch("grammar.md").then(function(response) {
           if (response.status !== 200) {
@@ -48,5 +53,6 @@
           document.getElementById('grammar').innerHTML = `<p>Error: ${status}</p><p>Something didn't work!</p>`;
       });
     </script>
+
 	</body>
 </html>
