@@ -28,9 +28,12 @@
 	<body>
 		<img src="/assets/GermanischLogo.png" id="logo" alt="Germanisch logo">
 
-    <h1 id="mainTitle">Germanisch</h1>
-    <p>Auxiliary Language for the Germanic Linguistic Family</p>
-    <a href="/dictionary"><h1>Dictionary</h1></a>
+    <div class="hero">
+      <h1 id="mainTitle">Germanisch</h1>
+      <p>Auxiliary Language for the Germanic Linguistic Family</p>
+    </div>
+    <h1>👉 <a href="/dictionary">Dictionary</a></h1>
+    <h1>👇 Grammar</h1>
     <div id="grammar"></div>
     <script>
       fetch("grammar.md").then(function(response) {
