@@ -202,24 +202,22 @@ un-: accented negative prefix
 <tr>
 <td>
 De grote infäll (5tet jaarhundred) : 
-Den lag änder sy an den beginn af dat 5te jaarhundred. Up den eine syde is dat Romäne Rik swakend, oh syn deling in two, in 395, hav for allt leded tu stacke in den Öst de wermiddels, latend den West tu unbeschütted. Op den andre syde, serjöse evenemente sche in de unkennde länd (disdäg Polen, Ukraine, Russland) : kommen fram Middelazjen, türkisch-mongolische nomaden, de Hün, ryd westwards, dryvend met sy overwonnene fölk. Af selsamt aspekte, sejd tu wese wild, die fororsak en ekten paniken under de germanische fölk welche flie for dem. En enormt kaos schak den germanische werld och kast tu den romäne grens somme schreckte fölk welche sok tuflukt in dat Rik. 
+Den lag änder sy an den beginn af dat 5te jaarhundred. Up den eine syde is dat Romäne Rik swakend, oh syn deling in two, in 395, hav for allt leded tu stacke in den Öst de wermiddels, latend den West tu unbeschütted. Op den andre syde, serjöse evenemente sche in de unkennde länd (disdäg Polen, Ukraine, Russland) : kommen fram Middelazjen, türkisch-mongolische nomaden, de Hün, ryd westwards, dryvend met sy overwonnene fölk. Af selsamt aspekte, sejd tu wese wild, die fororsak en ekten paniken under de germanische fölk welche flie for dem. En enormt kaos schak den germanische werld och kast tu den romäne grens somme schreckte fölk welche sok tuflukt in dat Rik.<br>
 In winter 406-407, den Rhyngrens is dwungen af de Vandalen när Köln. Göten, Fränken, Sweeb, Allamannen, Burgunder laup tu Galljen in hele stäm, met wyv oh bärn. Rydend südwarts tu Italjen, den Westgoten Alarik infall oh plunder Rom in 410. In 429, den Vandalen Geiserik reich Nordafrika oh erober dat aktuelle Algerjen. In 441, de Änglen oh de Säxen beset Britannjen (dat aktuelle England) oh dryv bak de keltische inheimisch ; in dat 6te jaarhundred, mäng flie tu Aremorika, waaraut die mak en litelt Britannjen. 
 </td>
 <td>
-“The Great Invasions (5th century)
-The situation changed at the beginning of the 5th century. On the one hand, the Roman Empire was weakened, and its division into two, in 395, mainly led to the concentration of defense resources in the East, leaving the West relatively poorly protected. On the other side, serious events are taking place in unknown lands (nowadays Poland, Ukraine, Russia): coming from Central Asia, Turko-Mongol nomads, the Huns, are riding towards the west, bringing with them vanquished peoples. With a strange appearance and a reputation for ferocity, they caused real panic among the Germanic peoples who fled before them. An enormous chaos shakes the Germanic world and throws terrified peoples seeking refuge in the Empire towards the Roman border.
+The Great Invasions (5th century) : 
+The situation changed at the beginning of the 5th century. On the one hand, the Roman Empire was weakened, and its division into two, in 395, mainly led to the concentration of defense resources in the East, leaving the West relatively poorly protected. On the other side, serious events are taking place in unknown lands (nowadays Poland, Ukraine, Russia): coming from Central Asia, Turko-Mongol nomads, the Huns, are riding towards the west, bringing with them vanquished peoples. With a strange appearance and a reputation for ferocity, they caused real panic among the Germanic peoples who fled before them. An enormous chaos shakes the Germanic world and throws terrified peoples seeking refuge in the Empire towards the Roman border.<br>
 During the winter of 406-407, the Rhine border was forced by the Vandals near Cologne. Goths, Franks, Suevi, Alemanni, Burgundians flock to Gaul in entire tribes, with women and children. Riding south into Italy, the Visigoth Alaric took and plundered Rome in 410. In 429, the Vandal Genseric reached North Africa and conquered what is now Algeria. In 441, the Angles and Saxons occupied Brittany (present-day England) and pushed back the Celtic natives; in the 6th century, many fled to Armorica, which they made into a little Brittany.
 </td>
 </tr>
 <tr>
 <td>
-Den germanische West
-
+Den germanische West : 
 After den fall af dat Westrik (476), den alderdomlige civilisasjonen fortset syn evolusjonen in dat Östrik, bliven intakt. In den West, daargen, den deling af dat territorjum twen de germanische infäller led kwick tu en almen bakgang : de Grote Infäll af dat Vte jaarhundred hav ruineerd den ökonomische aktiviteit ; städ är praktisch forsakt oh den bruk af mönt hav urden exepsjionell. 
 </td>
 <td>
-The Germanic West
-
+The Germanic West : 
 After the fall of the Western Empire (476), ancient civilization continued its evolution in the Eastern Empire, which remained intact. In the West, on the contrary, the sharing of territory between the Germanic invaders quickly led to a general regression; the Great Invasions of the 5th century ruined economic activity; the towns are practically abandoned and the use of money has become exceptional.
 </td>
 </tr>
@@ -265,24 +263,25 @@ In the language of the Rohirrim, the name Halifirien meant "the Sacred Mountain"
 </tr>
 <tr>
 <td>
-Drie ring for de elfköning under den himmel
-Seven for de Dwergherrens in dere steinsäl
-Nyn for de däudlige mensch
-Ein for den Mörke Herren up syn mörke tron
-in Mordorland waar de Schadus liggen
-Ein Ring tu herrsche dem äll, Ein Ring tu finde dem
-Ein Ring tu bringe dem äll, oh in Mörkhed tu binde dem
+Drie ring for de elfköning under den himmel,<br>
+Seven for de Dwergherrens in dere steinsäl,<br>
+Nyn for de däudlige mensch,<br>
+Ein for den Mörke Herren up syn mörke tron<br>
+in Mordorland waar de Schadus liggen.<br>
+Ein Ring tu herrsche dem äll, Ein Ring tu finde dem,<br>
+Ein Ring tu bringe dem äll, oh in Mörkhed tu binde dem<br>
 in Mordorland waar de Schadus liggen. 
 </td>
 <td>
-Three Rings for the Elven-kings under the sky,
-Seven for the Dwarf-lords in their halls of stone,
-Nine for Mortal Men doomed to die,
-One for the Dark Lord on his dark throne
+Three Rings for the Elven-kings under the sky,<br>
+Seven for the Dwarf-lords in their halls of stone,<br>
+Nine for Mortal Men doomed to die,<br>
+One for the Dark Lord on his dark throne<br>
+In the Land of Mordor where the Shadows lie.<br>
+One Ring to rule them all, One Ring to find them,<br>
+One Ring to bring them all, and in the darkness bind them<br>
 In the Land of Mordor where the Shadows lie.
-One Ring to rule them all, One Ring to find them,
-One Ring to bring them all, and in the darkness bind them
-In the Land of Mordor where the Shadows lie.</td>
+</td>
 </tr>
 </tbody>
 </table>
