@@ -86,7 +86,7 @@ Adverbs correspond to the bare form of the adjective, except for wel = “good�
 ## Personal pronouns
 
 
-|                            | Nominatif | Oblique | Base du pronom possessif |
+|                            | Nominative | Oblique | Base of the possessive |
 |----------------------------|-----------|---------|--------------------------|
 | 1° person singular      | ik        | my      | my-                      |
 | 2° person singular      | du        | dy      | dy-                      |
