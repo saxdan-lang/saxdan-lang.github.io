@@ -10,13 +10,19 @@
 	src: url("fanhen.regular.otf");
 }
 
+@font-face {
+	font-family: Backyard;
+	font-weight: normal;
+	src: url("backyard.black-personal.ttf");
+}
+
 .hero {
 	text-align: center;
 }
 
 #mainTitle {
 	font-size: 300%;
-	font-family: Fanhen, serif;
+	font-family: Backyard, serif;
 }
 
 body {
