@@ -195,7 +195,7 @@ un-: accented negative prefix
 
 <table>
 <thead>
-<th><td>Germanisch</td><td>English</td></th>
+<tr><th>Germanisch</th><th>English</th></tr>
 </thead>
 <tbody>
 <tr>
