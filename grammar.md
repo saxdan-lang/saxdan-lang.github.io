@@ -40,6 +40,7 @@ Words of Latin origin ending in -um replace it with -a.
 Otherwise, we try to put an umlaut on the first syllable (stressed, except prefix) of the root (in compound words, it is the last term which is concerned), and if this is impossible, we try on the following vowels, even unstressed from the root (not the suffixes!), and provided that the vowel is followed by at least one consonant.
 
 > “nose”: nas > näs
+
 > “body”: liham > lihäm
 
 If this is not possible, words accented on the first vowel of the root and whose last vowel is an unstressed “e” before one or more consonants, use an -s:
@@ -65,9 +66,11 @@ The subject attribute adjectives and those in apposition are invariable. Likewis
 Epithet adjectives agree with their noun and are placed between the article (or pronoun) and the noun. If the article or pronoun is already marked in gender or number, the ending of the adjective is -e. Otherwise, in the singular, it is -en for common, -t for neuter, and -e for plural. Examples:
 
 > “the blind man” = den blinde mann; “blind men” = de blinde männ
+
 > “a blind man” = en blinden mann; “blind men” = blinde männ
 
 > “the good country” = dat gude land; “the good countries” = from gude länd
+
 > “a good country” = in gudt land; “good countries” = gude länd
 
 The comparative is in -er... dan, and the superlative in -(e)st. If possible, the stressed vowel carries the umlaut.
