@@ -33,7 +33,7 @@ Germanic has two genders: common ("utrum") and neuter ("ne-utrum"), determined a
 
 The plural is determined as follows:
 
-Nouns ending in -e are invariable; those ending in another vowel add -s.
+Nouns ending in -e are invariable; those ending in another vowel or a stressed -e add an -s.
 
 Words of Latin origin ending in -um replace it with -a.
 
