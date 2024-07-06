@@ -1,3 +1,14 @@
+
+```
+<span style="color:darkgreen">🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hello! Do you speak Germanic? It's a bridge between the three groups so that we can understand each other.</span>
+<span style="color:darkred">🇳🇱 Hallo! Spreek jij Germaans? Het is een brug tussen de drie groepen zodat we elkaar kunnen begrijpen.</span>
+<span style="color:darkred">🇩🇪 Hallo! Sprichst du Germanisch? Es ist eine Brücke zwischen den drei Gruppen, damit wir uns verstehen können.</span>
+<span style="color:darkblue">🇸🇪 Hallå! Talar du germanska? Det är en bro mellan de tre grupperna så att vi kan förstå varandra.</span>
+<span style="color:darkblue">🇳🇴 Hallo! Snakker du germansk? Det er en bro mellom de tre gruppene slik at vi kan forstå hverandre.</span>
+<span style="color:darkblue">🇩🇰 Hej! Taler du germansk? Det er en bro mellem de tre grupper, så vi kan forstå hinanden.</span>
+🌉 Hej! Spreken du Germanisch? Et is en bru twen de drie grupe, dat wi kan forsto (each other).
+```
+
 As its name suggests, Germanisch is a pan-Germanic language that draws on similarities between the three main blocks of modern Germanic languages: English, Scandinavian languages ​​and continental Germanic languages ​​(German-Dutch spectrum).
 
 <img src="/assets/germanishBlocks.png">
