@@ -6,7 +6,7 @@
 <span style="color:darkblue">🇸🇪 Hallå! Talar du germanska? Det är en bro mellan de tre grupperna så att vi kan förstå varandra.</span>
 <span style="color:darkblue">🇳🇴 Hallo! Snakker du germansk? Det er en bro mellom de tre gruppene slik at vi kan forstå hverandre.</span>
 <span style="color:darkblue">🇩🇰 Hej! Taler du germansk? Det er en bro mellem de tre grupper, så vi kan forstå hinanden.</span>
-🌉 Hej! Spreken du Germanisch? Et is en bru twen de drie grupe, dat wi kan forsto (each other).
+🌉 Hej! Sprek du Germanisch? Et is en bru twen de drie grupe so dat wi kann forsto elchander.
 ```
 
 As its name suggests, Germanisch is a pan-Germanic language that draws on similarities between the three main blocks of modern Germanic languages: English, Scandinavian languages ​​and continental Germanic languages ​​(German-Dutch spectrum).
