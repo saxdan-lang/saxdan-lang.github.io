@@ -16,6 +16,16 @@
 	src: url("backyard.black-personal.ttf");
 }
 
+details {
+	margin-bottom: 2.4rem;
+	border: 2px solid green;
+	padding: 10px;
+}
+
+details.p {
+	margin-bottom: 0px;
+}
+
 .hero {
 	text-align: center;
 }
