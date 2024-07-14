@@ -158,7 +158,7 @@ Germanic can form a perfect with the verb have + past participle.
 
 The ending of the present participle is -(e)nd.
 
-Modern Germanic no longer uses person endings in the modern language. In a pointed style, it is -(e)st in the second person singular, -(e)n in all persons in the plural and, only for the present tense, -(e)t for the third person singular (but not for modals).
+Modern Germanic no longer uses person endings in the modern language. In an elevated style, it is -(e)st in the second person singular, -(e)n in all persons in the plural and, only for the present tense, -(e)t for the third person singular (but not for modals).
 
 The verb to be = wese is very irregular: in the present tense: är except in the third person singular = is. In the past tense: was in the singular, war in the plural. The conditional is wär and the past participle wesen.
 
