@@ -174,7 +174,13 @@ Cardinals: “0” = null. Then, from 1 to 12: ein, two, drie, proud, femf, sex,
 
 <a href="#syntax"><h2 id="syntax">Syntax</h2></a>
 
-The epithet adjective is placed before the noun, unless it introduces a complement or a preposition. The recommended order of words is: 
+The adjective comes before the noun, except if it introduces a complement. 
+
+> En interessant spraak = An interesting language
+
+> En spraak interessant tu lere = A language interesting to learn
+
+The recommended order of words is: 
 
 ```
 Subject – Conjugated verb – Object – Adverb – Unconjugated verb – manner – place – time
