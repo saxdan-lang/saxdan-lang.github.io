@@ -174,8 +174,30 @@ Cardinals: “0” = null. Then, from 1 to 12: ein, two, drie, proud, femf, sex,
 
 ## Syntax
 
-The epithet adjective is placed before the noun, unless it introduces a complement or a preposition. The word order is Subject – Verb – Object but there is inversion of the subject and the verb for the questions. Germanic otherwise can highlight an important element by placing it in first position if this does not hinder understanding. If necessary, we try to keep the verb in second position.
+The epithet adjective is placed before the noun, unless it introduces a complement or a preposition. The recommended order of words is: 
 
+```
+Subject – Conjugated verb – Object – Adverb – Unconjugated verb – manner – place – time
+```
+
+For questions, there is an inversion of the subject and the verb.
+
+Germanisch otherwise can highlight an important element by placing it in first position if this does not hinder understanding. If necessary, we try to keep the verb in second position. 
+
+Negation comes after the conjugated verb and personal pronouns.
+
+Examples:
+- Ik les dat buk kwick in den skule disdag.
+- Ik les et kwick in den skule disdag.
+
+- Ik les nit dat buk kwick in den skule disdag.
+- Ik les et nit kwick in den skule disdag.
+
+- Ik hav dat buk lesen kwick in den skule disdag.
+- Ik hav et lesen kwick in den skule disdag.
+
+- Ik hav nit dat buk lesen kwick in den skule disdag.
+- Ik hav et nit lesen kwick in den skule disdag.
 
 ## Derivation
 
