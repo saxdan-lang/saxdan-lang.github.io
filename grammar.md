@@ -2,6 +2,20 @@ As its name suggests, Germanisch is a pan-Germanic language that draws on simila
 
 <img src="/assets/germanishBlocks.png">
 
+<p>Table of Contents</p>
+<ul>
+    <li><a href="#pronunciation">Pronunciation</a></li>
+    <li><a href="#nouns">Nouns</a></li>
+    <li><a href="#adjectives">Adjectives</a></li>
+    <li><a href="#personal-pronouns">Personal pronouns</a></li>
+    <li><a href="#relative-pronouns">Relative pronouns</a></li>
+    <li><a href="#verbs">Verbs</a></li>
+    <li><a href="#numbers">Numbers</a></li>
+    <li><a href="#syntax">Syntax</a></li>
+    <li><a href="#derivation">Derivation</a></li>
+    <li><a href="#examples">Examples</a></li>
+</ul>
+
 <a href="#pronunciation"><h2 id="pronunciation">Pronunciation</h2></a>
 
 With the exception of lexical borrowings, Germanic words are accented on the first vowel of the root. In compound words, the main stress is on the first element.
