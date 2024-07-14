@@ -187,17 +187,21 @@ Germanisch otherwise can highlight an important element by placing it in first p
 Negation comes after the conjugated verb and personal pronouns.
 
 Examples:
-- Ik les dat buk kwick in den skule disdag.
-- Ik les et kwick in den skule disdag.
+<blockquote>
+    <p>Ik les dat buk kwick in den skule disdag.<br>Ik les et kwick in den skule disdag.</p>
+</blockquote>
+<blockquote>
+    <p>Ik les <b>nit</b> dat buk kwick in den skule disdag.<br>Ik les et <b>nit</b> kwick in den skule disdag.</p>
+</blockquote>
+<blockquote>
+    <p>Ik hav dat buk lesen kwick in den skule disdag.<br>Ik hav et lesen kwick in den skule disdag.</p>
+</blockquote>
+<blockquote>
+    <p>Ik hav <b>nit</b> dat buk lesen kwick in den skule disdag.<br>Ik hav et <b>nit</b> lesen kwick in den skule disdag.</p>
+</blockquote>
 
-- Ik les nit dat buk kwick in den skule disdag.
-- Ik les et nit kwick in den skule disdag.
-
-- Ik hav dat buk lesen kwick in den skule disdag.
-- Ik hav et lesen kwick in den skule disdag.
-
-- Ik hav nit dat buk lesen kwick in den skule disdag.
-- Ik hav et nit lesen kwick in den skule disdag.
+- 
+- 
 
 ## Derivation
 
