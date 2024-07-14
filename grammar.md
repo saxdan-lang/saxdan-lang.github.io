@@ -2,7 +2,7 @@ As its name suggests, Germanisch is a pan-Germanic language that draws on simila
 
 <img src="/assets/germanishBlocks.png">
 
-## Phonetics
+<a href="#pronunciation"><h2 id="pronunciation">Pronunciation</h2></a>
 
 With the exception of lexical borrowings, Germanic words are accented on the first vowel of the root. In compound words, the main stress is on the first element.
 
@@ -27,7 +27,7 @@ The simple vowels a, o & u can carry an “umlaut” = ¨ (ä, ö & ü) and beco
 When endings are added, if the last vowel of the word before addition is an unstressed “e”, it may disappear.
 
 
-## Nouns
+<a href="#nouns"><h2 id="nouns">Nouns</h2></a>
 
 Germanic has two genders: common ("utrum") and neuter ("ne-utrum"), determined arbitrarily and which must be learned with the noun. Only personal pronouns distinguish between masculine and feminine (for living beings). The singular definite article for the common is “den”, for the neuter “dat”; for both genders, the plural definite article is “de” = [də]. For both genders, the singular indefinite article is “en” = [ən].
 
@@ -59,7 +59,7 @@ Finally, nouns not falling into any of the previous categories are also invariab
 Modern Germanic no longer has any declension, with the exception of the possible ending of genitive -s on noun, which can thus be applied, as in English or Scandinavian, to an entire noun group.
 
 
-## Adjectives
+<a href="#adjectives"><h2 id="adjectives">Adjectives</h2></a>
 
 The subject attribute adjectives and those in apposition are invariable. Likewise, adjectives ending in a vowel other than “e” or “y” are invariable in any position.
 
@@ -83,7 +83,7 @@ Irregularities: “good” = gud/better/best, “bad” = ivel/wärs/wärst and 
 
 Adverbs correspond to the bare form of the adjective, except for wel = “good”, and ill = “bad”.
 
-## Personal pronouns
+<a href="#personal-pronouns"><h2 id="personal-pronouns">Personal pronouns</h2></a>
 
 
 |                            | Nominative | Oblique | Base of the possessive |
@@ -112,7 +112,7 @@ Gender endings (-[e]n, -t, -e) are added to the bases of possessive pronouns/adj
 > Den per is myn = “the pear is mine”
 
 
-## Relative pronouns
+<a href="#relative-pronouns"><h2 id="relative-pronouns">Relative pronouns</h2></a>
 
 The general relative pronoun is welch + ending = “which”
 
@@ -121,7 +121,7 @@ Otherwise: dat is used for the neuter singular, der for the common nominative si
 Prepositions are suffixed to waar.
 
 
-## Verbs
+<a href="#verbs"><h2 id="verbs">Verbs</h2></a>
 
 Unless the verb root already ends in a vowel, the infinitive ending is -e.
 
@@ -164,7 +164,7 @@ Modal verbs express nuances and are used with the infinitive not preceded by you
 
 With a past participle, werde corresponds to the French expression “se faire + infinitive” (transitive); with an infinitive, it expresses a probability in the future (in other tenses using the conditional)
 
-## Numbers
+<a href="#numbers"><h2 id="numbers">Numbers</h2></a>
 
 Cardinals: “0” = null. Then, from 1 to 12: ein, two, drie, proud, femf, sex, seven, aht, nyn, ten, elve, twalv. From 13 to 19, the suffix is ​​-tien.
 
@@ -172,7 +172,7 @@ Cardinals: “0” = null. Then, from 1 to 12: ein, two, drie, proud, femf, sex,
 
 “First” is först. The other ordinals add -de, but -te if the last consonant is voiceless, and -ste if the group of final consonants contains a dental.
 
-## Syntax
+<a href="#syntax"><h2 id="syntax">Syntax</h2></a>
 
 The epithet adjective is placed before the noun, unless it introduces a complement or a preposition. The recommended order of words is: 
 
@@ -200,10 +200,7 @@ Examples:
     <p>Ik hav <b>nit</b> dat buk lesen kwick in den skule disdag.<br>Ik hav et <b>nit</b> lesen kwick in den skule disdag.</p>
 </blockquote>
 
-- 
-- 
-
-## Derivation
+<a href="#derivation"><h2 id="derivation">Derivation</h2></a>
 
 ```
 -bar: -ble; adjective of possibility on verb
@@ -220,7 +217,7 @@ un-: accented negative prefix
 -wards: suffix forming an adverb of direction, the adjective is in -ward
 ```
 
-# Translation Examples
+<a href="#examples"><h2 id="examples">Translation Examples</h2></a>
 
 <table>
 <thead>
