@@ -115,11 +115,11 @@ Adverbs correspond to the bare form of the adjective, except for wel = “good�
 
 “den” is used for common “asexual” nouns. “ie” is also used for polite “vouvoiement”. Dat can be used as a general pronoun (“it”). It is opposed to dis (“this”) which is also (with endings) the basis of the demonstrative pronoun/adjective.
 
-The oblique corresponds to both the direct and indirect object, and when the pronoun comes after a preposition. The pronoun having a dative meaning precedes the accusative.
+The oblique corresponds to both the direct and indirect object, and when the pronoun comes after a preposition. The pronoun having a dative meaning goes before the accusative.
 
 > Ik giv him et = “I give him that”
 
-The thoughtful is sy. Otherwise, we can suffix selv to pronouns.
+The reflexive is sy. Otherwise, we can suffix selv to pronouns.
 
 Gender endings (-[e]n, -t, -e) are added to the bases of possessive pronouns/adjectives which then function as a definite article.
 
