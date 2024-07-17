@@ -226,12 +226,16 @@ Examples:
 -bar: -ble; adjective of possibility on verb
 -d: (and umlaut if possible) forms common quality nouns on measurement adjectives. Ex: diep > diepd “depth”
 -dom: quality suffix, common gender
+e-: (unstressed) forms adverbs from nouns.
 -eer: verbal suffix of words of Roman origin
 -en: suffix forming factitive and fientive verbs from adjectives; suffix forming adverbs from prepositions, if the latter ends in -er innacentué, it falls. Ex: under > unden.
--er: common name of agent from verbs
+-er: common noun of agent from verbs
 -hed: common suffix of state, quality on adjective
 -ing: suffix forming (common) action nouns from verbs
+-inne: feminine suffix
+-los: privative suffix, “without”
 or-: accented prefix meaning “original, of origin”
+-’rie: suffix of activity, place (stressed)
 -schap: common suffix forming qualities, abstractions
 un-: accented negative prefix
 -wards: suffix forming an adverb of direction, the adjective is in -ward
