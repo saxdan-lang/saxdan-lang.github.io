@@ -332,6 +332,25 @@ One Ring to bring them all, and in the darkness bind them<br>
 In the Land of Mordor where the Shadows lie.
 </td>
 </tr>
+<tr>
+<td>
+Den kolde winter is när, den "sne-storm" will kommen.<br>
+Komm in myt warmt haus, my friend.<br>
+Welkomm!<br>
+Komme hier, singe, danse, ete oh drinke.<br>
+Den is my plan.<br>
+Wi have water, bier, oh freschen melk fram den ku.<br>
+Oh! Oh warmen suppe. 
+</td>
+<td>
+The cold winter is near, a snowstorm will come.<br>
+Come in my warm house, my friend.<br>
+Welcome! Come here, sing and dance, eat and drink.<br>
+That is my plan.<br>
+We have water, beer, and milk fresh from the cow.<br>
+Oh! And warm soup.
+</td>
+</tr>
 </tbody>
 </table>
 
