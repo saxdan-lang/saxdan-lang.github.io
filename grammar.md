@@ -18,228 +18,320 @@ As its name suggests, Germanisch is a pan-Germanic language that draws on simila
 
 <a href="#pronunciation"><h2 id="pronunciation">Pronunciation</h2></a>
 
-With the exception of lexical borrowings, Germanic words are accented on the first vowel of the root. In compound words, the main stress is on the first element.
+Except for borrowed words, stress always falls on the first vowel of the root. In compound words, the stress falls on the first part.
 
-```
-“au” = ['aʊ]
-“c” is pronounced [s] before e, i & y. Before “k”, it is [k]. “ch” = [tʃ]
-“e” is [e] as the first of a word, stressed vowel or central vowel of a root. Otherwise it is [ə]. “ei” = [ej]
-“g” is always [g]
-“h” is [h], but inside a root after a vowel, it is [x]
-“i” = [i] and “ie” = [i:]
-“j” = [j]
-“ng” = [ŋ]
-“ou” = ['oʊ]
-“s” = “s”, except between two vowels where it becomes [z]; however, “ss” is always [s]; “sch” = [ʃ]
-“u” = [u]
-“w” is pronounced between [w] and [v]
-“y” = [aj]
-```
+- **au** = ['aʊ]
+- **c** = [s] before **e**, **i**, and **y**; before **k**, it’s [k].  
+  **ch** = [tʃ]
+- **e** = [e] when it’s the main stressed vowel or the first vowel of a word’s root. Otherwise, it becomes [ə] (like the “e” in “the”).  
+  **ei** = [ej]
+- **g** is always [g].
+- **h** = [h], but if it appears inside a word’s root after a vowel, it is pronounced [x] (a rough “h” sound).
+- **i** = [i];  
+  **ie** = [i:] (a longer “ee” sound)
+- **j** = [j] (as in “yes”)
+- **ng** = [ŋ] (as in “sing”)
+- **ou** = ['oʊ]
+- **s** = [s], but between two vowels it changes to [z]. Double **ss** always stays [s].  
+  **sch** = [ʃ] (as in “sh”)
+- **u** = [u] (as in “food”)
+- **w** is somewhere between [w] and [v].
+- **y** = [aj] (like “eye”)
 
-The simple vowels a, o & u can carry an “umlaut” = ¨ (ä, ö & ü) and become [ɛ], [ø] and [y] respectively. Diphthongs and double vowels cannot have an umlaut, except “äu” = [œy]. A double vowel is long.
+The vowels **a**, **o**, and **u** can take an umlaut (the two dots) to become **ä** [ɛ], **ö** [ø], and **ü** [y]. Umlauts can’t be added to diphthongs and long vowels, except for **äu** = [œy]. A double vowel means it’s held longer.
 
-When endings are added, if the last vowel of the word before addition is an unstressed “e”, it may disappear.
+When adding endings, if the last vowel before the ending is an unstressed **e**, it might disappear.
 
 
 <a href="#nouns"><h2 id="nouns">Nouns</h2></a>
 
-Germanic has two genders: common ("utrum") and neuter ("ne-utrum"), determined arbitrarily and which must be learned with the noun. Only personal pronouns distinguish between masculine and feminine (for living beings). The singular definite article for the common is “den”, for the neuter “dat”; for both genders, the plural definite article is “de” = [də]. For both genders, the singular indefinite article is “en” = [ən].
+Germanisch has two genders: common and neuter. Each noun’s gender is something you have to learn by memory. Personal pronouns are the only words that distinguish male or female for living beings.
 
-The plural is determined as follows:
+**Definite articles:**  
+- Common singular: **den**  
+- Neuter singular: **dat**  
+- Plural (for both genders): **de** = [də]
 
-Nouns ending in -e are invariable; those ending in another vowel or a stressed -e add an -s.
+**Indefinite article:**  
+- Singular (for both genders): **en** = [ən]
 
-Words of Latin origin ending in -um replace it with -a.
+### Making Nouns Plural
 
-Otherwise, we try to put an umlaut on the first syllable (stressed, except prefix) of the root (in compound words, it is the last term which is concerned), and if this is impossible, we try on the following vowels, even unstressed from the root (not the suffixes!), and provided that the vowel is followed by at least one consonant.
+1. If a noun ends in **-e**, it stays the same in plural form.
+2. If a noun ends in another vowel, add **-s**.
+3. If a noun comes from Latin and ends in **-um**, change **-um** to **-a**.
+4. Otherwise, try to add an umlaut to the first vowel of the noun’s main part. (If it’s a compound word, look at the last part of the compound.) If that’s not possible, look at the other vowels in the root (not in endings) to see if you can add an umlaut there. This only works if the vowel you’re changing is followed by at least one consonant.
 
-> “nose”: nas > näs
+   Examples:  
+   - “nose”: **nas** → **näs**  
+   - “body”: **liham** → **lihäm**
 
-> “body”: liham > lihäm
+   If you can’t add an umlaut, and the word is stressed on its first vowel, and the last vowel before any following consonant is an unstressed **e**, then add **-s**:
 
-If this is not possible, words accented on the first vowel of the root and whose last vowel is an unstressed “e” before one or more consonants, use an -s:
+   - “finger”: **finger** → **fingers**
 
-> “finger”: finger > fingers
+   For other multi-syllable words that refer to a living thing, have common gender, are stressed on the first vowel, and whose last vowel before the consonants isn’t **e**, you can add **-e**:
 
-Other polysyllabic words designating an animate being with a common gender accented on the first vowel of the root and whose last vowel (before one or more consonants) is not “e” can use “-e”.
+   - “herring”: **hering** → **heringe**
 
-> “herring”: hering > heringe
+   Nouns that don’t fit any of these rules simply don’t change. This often applies to borrowed words that aren’t stressed on the first vowel:
 
+   - “student”: **studenten** ([stu'dentən]) stays the same in plural.
 
-Finally, nouns not falling into any of the previous categories are also invariable. This is particularly the case for borrowings which are not stressed on the first vowel of the word.
+Germanisch no longer really uses different noun endings for cases, except you can add a genitive **-s** (like in English or Scandinavian languages) to show possession, even to a whole phrase.
 
-> “student”: studenten = [stu'dentən] (invariable)
-
-Modern Germanic no longer has any declension, with the exception of the possible ending of genitive -s on noun, which can thus be applied, as in English or Scandinavian, to an entire noun group.
 
 
 <a href="#adjectives"><h2 id="adjectives">Adjectives</h2></a>
 
-The subject attribute adjectives and those in apposition are invariable. Likewise, adjectives ending in a vowel other than “e” or “y” are invariable in any position.
+Adjectives that come after a noun (like when you say “the man is blind”) or stand on their own don’t change. Also, if an adjective ends in a vowel other than **e** or **y**, it never changes form.
 
-Epithet adjectives agree with their noun and are placed between the article (or pronoun) and the noun. If the article or pronoun is already marked in gender or number, the ending of the adjective is -e. Otherwise, in the singular, it is -en for common, -t for neuter, and -e for plural. Examples:
+However, when you put an adjective directly before a noun (like “the blind man”), you need to make it match the gender or number if the article or pronoun before it isn’t already doing that job.
 
-> “the blind man” = den blinde mann; “blind men” = de blinde männ
+- If the article or pronoun already shows gender or number, just add **-e** to the adjective.
+- If it doesn’t, then:
+  - For a singular common-gender noun: add **-en**
+  - For a singular neuter noun: add **-t**
+  - For plural nouns: add **-e**
 
-> “a blind man” = en blinden mann; “blind men” = blinde männ
+Examples:  
+- “the blind man” = **den blinde mann**  
+- “the blind men” = **de blinde männ**  
+- “a blind man” = **en blinden mann**  
+- “blind men” = **blinde männ**
 
-> “the good country” = dat gude land; “the good countries” = from gude länd
+- “the good country” = **dat gude land**  
+- “the good countries” = **de gude länd**  
+- “a good country” = **en gudt land**  
+- “good countries” = **gude länd**
 
-> “a good country” = in gudt land; “good countries” = gude länd
+### Comparative and Superlative Forms
 
-The comparative is in -er... dan, and the superlative in -(e)st. If possible, the stressed vowel carries the umlaut.
+To compare two things, add **-er ... dan** (like “bigger than”). For the “most” form, add **-(e)st** (like “biggest”). If possible, also use an umlaut on the main vowel.
 
-Irregularities: “good” = gud/better/best, “bad” = ivel/wärs/wärst and “small” = litel/minder/minst
+Some adjectives are irregular:  
+- “good”: **gud / better / best**  
+- “bad”: **ivel / wärs / wärst**  
+- “small”: **litel / minder / minst**
 
-> Den grötst af jure frükt is jurn per, de minst grot jure kirsch = “The largest of your fruits is your pear, the smallest your cherries”
+**Den grötst af jure frükt is jurn per, de minst grot jure kirsch**  
+= “The largest of your fruits is your pear; the least large are your cherries.”
 
-> Say wo hav arbeided mest andfo de dickste frükt; say wo hav arbeided fau andfo de minste frükt = “Those who have worked the hardest receive the largest fruits; those who have worked little receive the smallest fruits”
+**Dise wo hav arbeided mest andfo de dickste frükt; dise wo hav arbeided fau andfo de minste frükt**  
+= “Those who have worked the most receive the biggest fruits; those who have worked little receive the smallest fruits.”
 
-Adverbs correspond to the bare form of the adjective, except for wel = “good”, and ill = “bad”.
+<a href="#adverbs"><h2 id="adverbs">Adverbs</h2></a>
+
+Adverbs generally look like the basic form of the adjective. Two exceptions:  
+- **wel** = “well”  
+- **ill** = “badly”
 
 <a href="#personal-pronouns"><h2 id="personal-pronouns">Personal pronouns</h2></a>
 
+Germanisch has personal pronouns that have a **subject form** and an **object form**, as well as a base form for making possessive pronouns and adjectives.
 
-|                            | Nominative | Oblique | Base of the possessive |
-|----------------------------|-----------|---------|--------------------------|
-| 1° person singular      | ik        | my      | my-                      |
-| 2° person singular      | du        | dy      | dy-                      |
-| 3° person singular masculine | hi    | him     | sy-                      |
-| 3° person singular feminine | si     | her     | her-                     |
-| 3° person singular common | den    | den     | sy-                      |
-| 3° person neuter         | et        | et      | sy-                      |
-| 1° person plural        | wi        | os      | or-                      |
-| 2° person plural        | ie        | jer     | jur-                     |
-| 3° person plural        | die       | dem     | der-                     |
+| Person/Number/Gender | Subject (Nominative) | Object (Oblique) | Possessive Base |
+|----------------------|----------------------|------------------|-----------------|
+| 1st sing.            | ik                  | my               | my-             |
+| 2nd sing.            | du                  | dy               | dy-             |
+| 3rd sing. masculine  | hi                  | him              | sy-             |
+| 3rd sing. feminine   | si                  | her              | her-            |
+| 3rd sing. common     | den                 | den              | sy-             |
+| 3rd sing. neuter     | et                  | et               | sy-             |
+| 1st plural           | wi                  | os               | or-             |
+| 2nd plural           | ie                  | jer              | jur-            |
+| 3rd plural           | die                 | dem              | der-            |
 
+**Notes:**
+- Use **den** for common-gender nouns that don’t refer specifically to a male or female.  
+- **ie** (the 2nd person plural) is also used as a polite "you" (like “vous” in French or “Sie” in German).  
+- **dat** can work as a general pronoun meaning "it." It contrasts with **dis**, meaning "this." Variations of "dis" are also used for demonstrative pronouns and adjectives.
+- The object form is used both for direct and indirect objects, and after prepositions.
+- When both a direct and indirect object pronoun appear, the indirect object one comes first.  
+  For example: **Ik giv him et** = “I give him it” or “I give it to him.”
 
-“den” is used for common “asexual” nouns. “ie” is also used for polite “vouvoiement”. Dat can be used as a general pronoun (“it”). It is opposed to dis (“this”) which is also (with endings) the basis of the demonstrative pronoun/adjective.
+**Reflexive Pronouns:** Use **sy** as a reflexive pronoun.  
+You can also add **selv** after pronouns for emphasis (like “myself,” “yourself,” etc.).
 
-The oblique corresponds to both the direct and indirect object, and when the pronoun comes after a preposition. The pronoun having a dative meaning goes before the accusative.
-
-> Ik giv him et = “I give him that”
-
-The reflexive is sy. Otherwise, we can suffix selv to pronouns.
-
-Gender endings (-[e]n, -t, -e) are added to the bases of possessive pronouns/adjectives which then function as a definite article.
-
-> Den per is myn = “the pear is mine”
+**Possessives:**  
+The possessive base (my-, dy-, sy-, etc.) can take endings (-[e]n, -t, -e) like articles do, depending on gender and number.  
+For example: **Den per is myn** = “The pear is mine.”
 
 
 <a href="#relative-pronouns"><h2 id="relative-pronouns">Relative pronouns</h2></a>
 
-The general relative pronoun is welch + ending = “which”
+The general relative pronoun is formed from **welch** + an ending, meaning “which.”
 
-Otherwise: dat is used for the neuter singular, der for the common nominative singular. For any gender and number, and for animate beings, we can use wo in the nominative case and wem in the oblique case. Finally, the relative object complement can simply be omitted (as in English or Swedish) if it does not hinder understanding. “whose” = wes
+Other options:
+- **dat** is used for neuter singular,
+- **der** for common singular (subject form),
+- **wo** (subject) and **wem** (object) can be used for any gender/number, especially for people.
+- Sometimes, as in English, you can leave out the relative pronoun if it doesn’t cause confusion.
+- “whose” = **wes**
+  
+When you need to attach prepositions to a relative pronoun, you use **waar** + the preposition as a suffix (like “wherefrom,” “wherein,” etc.).
 
-Prepositions are suffixed to waar.
 
 
 <a href="#verbs"><h2 id="verbs">Verbs</h2></a>
 
-Unless the verb root already ends in a vowel, the infinitive ending is -e.
+**Infinitives:**  
+Most verbs end in **-e** in the infinitive, unless the verb root already ends in a vowel.  
+Example: If the verb root is “mak-,” the infinitive is **make**. If it’s “go,” it just stays **go**.
 
-The imperative and the form of the verb in the present tense correspond to the bare form (without -e) except for rare irregularities which will be indicated. (mainly auxiliary verbs and modal verbs).
+**Present Tense and Imperative:**  
+The present tense form is usually just the basic root of the verb (no final **-e**). The same form is used for the imperative (commands), except for a few irregular verbs (mostly auxiliaries and modals).
 
-The preterite and the past participle of regular (“weak”) verbs are formed by adding -de/-d respectively to the verb root. If the last consonant is voiceless (f, k, p, s, sch), these endings are -te/-t. If the consonant cluster after the last vowel contains a dental (ch, d, t), both the preterite and past participle endings are -ed.
+**Past Tense (Preterite) and Past Participle for Regular Verbs:**  
+Regular (“weak”) verbs form the past tense and past participle by adding certain endings to the root:
 
-The ablaut of strong verbs whose root ends in a consonant can be grouped into several classes:
+- Normally, add **-de/-d**.  
+- If the last consonant is a voiceless sound (f, k, p, s, sch), use **-te/-t** instead.  
+- If the last consonant cluster after the vowel includes a “dental” sound (ch, d, t), use **-ed** for both past tense and past participle.
 
-```
-I: yC/iC:iV
-IV: eC/aC/oC
-```
+**Strong Verbs (Irregular):**  
+Strong verbs change their vowel (ablaut) in the past tense and past participle. They follow patterns (like English sing/sang/sung). One set of patterns might be:  
+- Class I: yC/iC:iV  
+- Class IV: eC/aC/oC  
+(These are just examples of vowel changes.)
 
-Germanic has no future tense (it uses modals for that, or simply adverbs, or even the present tense if the meaning is obvious). On the other hand, it has a synthetic conditional which corresponds to the form of the preterite with if possible umlaut on the stressed vowel of the verbal root and addition of -e. The three irregular conditionals are “would” = wär, “should” = schoud, and “would” = woud
+**No Separate Future Tense:**  
+Germanisch does not have a specific future tense. It uses modal verbs, time words (adverbs), or just the present tense if the meaning is clear.
 
-> Wen ik wär rich, käupte ik en haus = “If I were rich, I would buy a house”
+**Conditional:**  
+The language has a conditional form. To form it, start from the past tense, add an umlaut to the main vowel if possible, and end with **-e**.  
+There are three irregular conditionals:  
+- “would be” = **wär**  
+- “should” = **schoud**  
+- “would want” = **woud**
 
-Germanic can form a perfect with the verb have + past participle.
+Example: **Wen ik wär rich, käupte ik en haus** = “If I were rich, I would buy a house.”
 
-The ending of the present participle is -(e)nd.
+**Perfect Tense:**  
+Form the perfect tense with **have + past participle** (just like English “have done,” “have seen”).
 
-Modern Germanic no longer uses person endings in the modern language. In an elevated style, it is -(e)st in the second person singular, -(e)n in all persons in the plural and, only for the present tense, -(e)t for the third person singular (but not for modals).
+**Present Participle:**  
+Add **-(e)nd** to form the present participle (like “running” from “run” → “runnd”).
 
-The verb to be = wese is very irregular: in the present tense: är except in the third person singular = is. In the past tense: was in the singular, war in the plural. The conditional is wär and the past participle wesen.
+**Optional Personal Endings (Old-Fashioned):**  
+Modern Germanisch doesn’t usually use personal verb endings. In a more “elevated” style, you might see:  
+- **-(e)st** for 2nd person singular  
+- **-(e)n** for all persons plural  
+- **-(e)t** for 3rd person singular present (not used with modals)  
+These are optional and not common in everyday speech.
 
-Modal verbs express nuances and are used with the infinitive not preceded by you. Their present is the old form which was only valid for the singular.
+---
 
-| Infinitif | Present | Past Tense | Past Participle | Conditional |
-| --- | --- | --- | --- | --- |
-| Bedurve (to need) | bedarf | bedurft | bedurft | bedürfte |
-| Döre (to dare) | dör | dörd | dörd | dörde |
+### The Verb “to be”
+
+The verb “to be” = **wese** is very irregular:
+
+- Present: **är** (except 3rd person singular = **is**)  
+- Past (preterite): **was** (singular), **war** (plural)  
+- Conditional: **wär**  
+- Past Participle: **wesen**
+
+---
+
+### Modal Verbs
+
+Modal verbs express ability, permission, obligation, etc. They appear with another verb in the infinitive without “to.” They use older forms in the present (simpler forms) and change in the past:
+
+| Infinitive | Present | Past (Preterite) | Participle | Conditional |
+|------------|----------|------------------|------------|-------------|
+| Bedurve (need) | bedarf | bedurft | bedurft | bedürfte |
+| Döre (dare) | dör | dörd | dörd | dörde |
 | Kunne (can) | kann | kunnd | kunnd | künnde |
-| Moge (to have the right) | mog | mohd | mohd | möhde |
-| Muste (must) | must | muste | must | müste |
-| Schulle (should) | schall | schuld | schuld | schould |
-| Werde (to become) | werd | ward | urden | ürde |
-| Wille (to want) | will | wilt | wilt | woud |
-| Witte (to know) | weit | wist | wist | wiste |
+| Moge (may) | mog | mohd | mohd | möhde |
+| Muste (must) obligation | must | muste | must | müste |
+| Schulle (should) advice | schall | schuld | schuld | schoud |
+| Werde (become) | werd | (old plural: ward) | urden |ürde |
+| Wille (want) | will | wilt | wilt | woud |
+| Witte (know) | weit | wist | wist | wiste |
 
-With a past participle, werde corresponds to the French expression “se faire + infinitive” (transitive); with an infinitive, it expresses a probability in the future (in other tenses using the conditional)
+**Using “werde”:**  
+With a past participle, **werde** translates to something like “to get something done.”  
+With an infinitive, **werde** can indicate likelihood or probability about the future. In other tenses, use the conditional forms of **werde** for probabilities in past or hypothetical situations.
 
 <a href="#numbers"><h2 id="numbers">Numbers</h2></a>
 
-Cardinals: “0” = null. Then, from 1 to 12: ein, two, drie, proud, femf, sex, seven, aht, nyn, ten, elve, twalv. From 13 to 19, the suffix is ​​-tien.
 
-“20” is twunti. The other tens add -ti. “100” is hundred, “1000” tausend. The units come after the tens: 22 = twunti-two
+**Cardinal Numbers:**  
+- 0 = null  
+- From 1 to 12: ein, two, drie, fier, femf, sex, seven, aht, nyn, ten, elve, twalv  
+- From 13 to 19, add **-tien** (like “thirteen” = dreitien)  
+- 20 = twunti  
+- Other tens follow the pattern: **(digit) + ti**. For example, “30” = drieti, “40” = fierti.  
+- 100 = hundred  
+- 1000 = tausend
 
-“First” is först. The other ordinals add -de, but -te if the last consonant is voiceless, and -ste if the group of final consonants contains a dental.
+For numbers above twenty, place the unit after the tens:  
+- 22 = twunti-two  
+
+**Ordinal Numbers:**  
+- “first” = först  
+- For other ordinals, add **-de**, but if the final consonant is voiceless, use **-te**, and if there’s a dental sound in the last cluster, use **-ste**.  
+
 
 <a href="#syntax"><h2 id="syntax">Syntax</h2></a>
 
-The adjective comes before the noun, except if it introduces a complement. 
+**Basic Word Order:**  
+Germanisch generally follows a **Subject – Verb – Object** word order.  
+- Statement: **Ik see den mann.** (“I see the man.”)  
+- Question: **See ik den mann?** (“Do I see the man?”) — simply invert subject and verb.
 
-> En interessant spraak = An interesting language
+**Highlighting/Fronting Elements:**  
+You can put an important element first to emphasize it, as long as it doesn’t cause confusion. Even when you do this, try to keep the verb near the start (in second position if possible).  
+- Emphasis: **Den mann see ik.** (“The man, I see.”)
 
-> En spraak interessant tu lere = A language interesting to learn
+**Placement of Adjectives:**  
+Adjectives usually go before the noun they describe. However, if the adjective has its own complement or a prepositional phrase, that might come after the noun.
 
-The recommended order of words is: 
+**Negation:**  
+The basic negation word is **nit**. It comes after the conjugated verb and any personal pronouns, but generally before other elements in the sentence. This placement might feel a bit different from English, which often places negation immediately after the auxiliary or modal.
 
-```
-Subject – Conjugated verb – Object – Adverb – Unconjugated verb – manner – place – time
-```
+Compare the following examples (without and with negation):
 
-For questions, there is an inversion of the subject and the verb.
+Without Negation:  
+> Ik les dat buk kwick in den skule disdag.  
+> Ik les et kwick in den skule disdag.  
+> *“I read that book quickly in the school on Tuesday.”*
 
-Germanisch otherwise can highlight an important element by placing it in first position if this does not hinder understanding. If necessary, we try to keep the verb in second position. 
+With Negation (**nit** after the verb and pronouns):  
+> Ik les **nit** dat buk kwick in den skule disdag.  
+> Ik les et **nit** kwick in den skule disdag.  
+> *“I do not read that book quickly in the school on Tuesday.”*
 
-Negation comes after the conjugated verb and personal pronouns.
+With a Perfect Construction:  
+> Ik hav dat buk lesen kwick in den skule disdag.  
+> Ik hav et lesen kwick in den skule disdag.  
+> *“I have read that book quickly in the school on Tuesday.”*
 
-Examples:
-<blockquote>
-    <p>Ik les dat buk kwick in den skule disdag.<br>Ik les et kwick in den skule disdag.</p>
-</blockquote>
-<blockquote>
-    <p>Ik les <b>nit</b> dat buk kwick in den skule disdag.<br>Ik les et <b>nit</b> kwick in den skule disdag.</p>
-</blockquote>
-<blockquote>
-    <p>Ik hav dat buk lesen kwick in den skule disdag.<br>Ik hav et lesen kwick in den skule disdag.</p>
-</blockquote>
-<blockquote>
-    <p>Ik hav <b>nit</b> dat buk lesen kwick in den skule disdag.<br>Ik hav et <b>nit</b> lesen kwick in den skule disdag.</p>
-</blockquote>
+Negated Perfect Construction:  
+> Ik hav **nit** dat buk lesen kwick in den skule disdag.  
+> Ik hav et **nit** lesen kwick in den skule disdag.  
+> *“I have not read that book quickly in the school on Tuesday.”*
+
+*(In summary, if you say “I have read,” you place **nit** after “hav” and any pronoun, just before the rest of the sentence. This is a slight difference from English, where we typically say “I have not read,” placing “not” immediately after “have.” In Germanisch, the pattern is similar but the exact position of **nit** may differ slightly.)*
 
 <a href="#derivation"><h2 id="derivation">Derivation</h2></a>
 
-```
--bar: -ble; adjective of possibility on verb
--d: (and umlaut if possible) forms common quality nouns on measurement adjectives. Ex: diep > diepd “depth”
--dom: quality suffix, common gender
-e-: (unstressed) forms adverbs from nouns.
--eer: verbal suffix of words of Roman origin
--en: suffix forming factitive and fientive verbs from adjectives; suffix forming adverbs from prepositions, if the latter ends in -er innacentué, it falls. Ex: under > unden.
--er: common noun of agent from verbs
--hed: common suffix of state, quality on adjective
--ing: suffix forming (common) action nouns from verbs
--inne: feminine suffix
--los: privative suffix, “without”
-or-: accented prefix meaning “original, of origin”
--’rie: suffix of activity, place (stressed)
--schap: common suffix forming qualities, abstractions
-un-: accented negative prefix
--wards: suffix forming an adverb of direction, the adjective is in -ward
-```
+Germanisch uses many affixes (prefixes and suffixes) to create new words, much like English does, but often in a more regular way.
+
+| Affix  | Meaning/Use                          | Example                 |
+|--------|---------------------------------------|-------------------------|
+| -bar   | “-able”                              | lesbar (readable)       |
+| -d     | quality measure (umlaut if possible) | diep → diepd (depth)    |
+| -dom   | state/quality                         | gud → guddom (goodness) |
+| -eer   | forms verbs from Romance words        | (French loan)           |
+| -en    | causatives/adverb forms from preps    | under → unden           |
+| -er    | agent noun                            | mak → maker (maker)     |
+| -hed   | state/quality (like -hood)            |                           |
+| -ing   | action noun (like English -ing)       | build → building         |
+| or-    | original/from the origin prefix       | orsprong (origin)       |
+| -schap | abstract noun (-ship)                 | freunschap (friendship) |
+| un-    | negative prefix (un-)                 | unglad (unhappy)         |
+| -wards | direction adverb (-wards)             | towards, backwards       |
 
 <a href="#examples"><h2 id="examples">Translation Examples</h2></a>
 
