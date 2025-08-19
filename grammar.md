@@ -78,7 +78,12 @@ Germanisch has two genders: common and neuter. Each noun’s gender is something
 
    - “student”: **studenten** ([stu'dentən]) stays the same in plural.
 
-Germanisch no longer really uses different noun endings for cases, except you can add a genitive **-s** (like in English or Scandinavian languages) to show possession, even to a whole phrase.
+If we want to especially emphasize the plural of a noun, we can add **-(e)r**. In suc
+In such a case, the other plural marks at the end of the word (not the "umlauts") are dropped, as well as the unstressed final **-en**. 
+
+Hence : **mann > männ > männer ; studenten > studenter ; finger > fingers > fing(e)rer**
+
+Germanisch no longer really uses different noun endings for cases, except you can add a genitive **-s** (like in English or Scandinavian languages) to show possession, even to a whole phrase. A dative plural **-en** exists in a literary usage. 
 
 
 
@@ -277,12 +282,12 @@ For numbers above twenty, place the unit after the tens:
 
 **Basic Word Order:**  
 Germanisch generally follows a **Subject – Verb – Object** word order.  
-- Statement: **Ik see den mann.** (“I see the man.”)  
-- Question: **See ik den mann?** (“Do I see the man?”) — simply invert subject and verb.
+- Statement: **Ik sie den mann.** (“I see the man.”)  
+- Question: **Sie ik den mann?** (“Do I see the man?”) — simply invert subject and verb.
 
 **Highlighting/Fronting Elements:**  
 You can put an important element first to emphasize it, as long as it doesn’t cause confusion. Even when you do this, try to keep the verb near the start (in second position if possible).  
-- Emphasis: **Den mann see ik.** (“The man, I see.”)
+- Emphasis: **Den mann sie ik.** (“The man, I see.”)
 
 **Placement of Adjectives:**  
 Adjectives usually go before the noun they describe. However, if the adjective has its own complement or a prepositional phrase, that might come after the noun.
@@ -303,13 +308,13 @@ With Negation (**nit** after the verb and pronouns):
 > *“I do not read that book quickly in the school on Tuesday.”*
 
 With a Perfect Construction:  
-> Ik hav dat buk lesen kwick in den skule disdag.  
-> Ik hav et lesen kwick in den skule disdag.  
+> Ik hav lesen dat buk kwick in den skule disdag.  
+> Ik hav lesen it kwick in den skule disdag.  
 > *“I have read that book quickly in the school on Tuesday.”*
 
 Negated Perfect Construction:  
-> Ik hav **nit** dat buk lesen kwick in den skule disdag.  
-> Ik hav et **nit** lesen kwick in den skule disdag.  
+> Ik hav **nit** lesen dat buk kwick in den skule disdag.  
+> Ik hav **nit** lesen et kwick in den skule disdag.  
 > *“I have not read that book quickly in the school on Tuesday.”*
 
 *(In summary, if you say “I have read,” you place **nit** after “hav” and any pronoun, just before the rest of the sentence. This is a slight difference from English, where we typically say “I have not read,” placing “not” immediately after “have.” In Germanisch, the pattern is similar but the exact position of **nit** may differ slightly.)*
@@ -324,7 +329,7 @@ Germanisch uses many affixes (prefixes and suffixes) to create new words, much l
 | -d     | quality measure (umlaut if possible) | diep → diepd (depth)    |
 | -dom   | state/quality                         | gud → guddom (goodness) |
 | -eer   | forms verbs from Romance words        | (French loan)           |
-| -en    | causatives/adverb forms from preps    | under → unden           |
+| -en    | causatives/adverb forms from preps    | under → unden (but "above" is **boven**           |
 | -er    | agent noun                            | mak → maker (maker)     |
 | -hed   | state/quality (like -hood)            |                           |
 | -ing   | action noun (like English -ing)       | build → building         |
