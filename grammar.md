@@ -1,4 +1,8 @@
-As its name suggests, Saxdan is a pan-Germanic language that draws on similarities between the three main blocks of modern Germanic languages: English, Scandinavian languages ​​and continental Germanic languages ​​(German-Dutch spectrum).
+As its name suggests, Saxdan (Saxon + Dane) is a pan-Germanic language that draws on similarities between the three main blocks of modern Germanic languages: 
+
+* English
+* Scandinavian languages
+* Continental Germanic languages ​​(German-Dutch spectrum) 
 
 <img src="/assets/germanishBlocks.png">
 
