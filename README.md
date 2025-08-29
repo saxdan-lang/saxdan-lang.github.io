@@ -1,2 +1,2 @@
-# germanisch-lang.github.io
-Homepage for Germanisch
+# saxdan-lang.github.io
+Homepage for Saxdan
