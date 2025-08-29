@@ -1,4 +1,4 @@
-As its name suggests, Germanisch is a pan-Germanic language that draws on similarities between the three main blocks of modern Germanic languages: English, Scandinavian languages ​​and continental Germanic languages ​​(German-Dutch spectrum).
+As its name suggests, Saxdan is a pan-Germanic language that draws on similarities between the three main blocks of modern Germanic languages: English, Scandinavian languages ​​and continental Germanic languages ​​(German-Dutch spectrum).
 
 <img src="/assets/germanishBlocks.png">
 
@@ -45,7 +45,7 @@ When adding endings, if the last vowel before the ending is an unstressed **e**,
 
 <a href="#nouns"><h2 id="nouns">Nouns</h2></a>
 
-Germanisch has two genders: common and neuter. Each noun’s gender is something you have to learn by memory. Personal pronouns are the only words that distinguish male or female for living beings.
+Saxdan has two genders: common and neuter. Each noun’s gender is something you have to learn by memory. Personal pronouns are the only words that distinguish male or female for living beings.
 
 **Definite articles:**  
 - Common singular: **den**  
@@ -83,7 +83,7 @@ In such a case, the other plural marks at the end of the word (not the "umlauts"
 
 Hence : **mann > männ > männer ; studenten > studenter ; finger > fingers > fing(e)rer**
 
-Germanisch no longer really uses different noun endings for cases, except you can add a genitive **-s** (like in English or Scandinavian languages) to show possession, even to a whole phrase. A dative plural **-en** exists in a literary usage. 
+Saxdan no longer really uses different noun endings for cases, except you can add a genitive **-s** (like in English or Scandinavian languages) to show possession, even to a whole phrase. A dative plural **-en** exists in a literary usage. 
 
 
 
@@ -133,7 +133,7 @@ Adverbs generally look like the basic form of the adjective. Two exceptions:
 
 <a href="#personal-pronouns"><h2 id="personal-pronouns">Personal pronouns</h2></a>
 
-Germanisch has personal pronouns that have a **subject form** and an **object form**, as well as a base form for making possessive pronouns and adjectives.
+Saxdan has personal pronouns that have a **subject form** and an **object form**, as well as a base form for making possessive pronouns and adjectives.
 
 | Person/Number/Gender | Subject (Nominative) | Object (Oblique) | Possessive Base |
 |----------------------|----------------------|------------------|-----------------|
@@ -201,7 +201,7 @@ Strong verbs change their vowel (ablaut) in the past tense and past participle. 
 (These are just examples of vowel changes.)
 
 **No Separate Future Tense:**  
-Germanisch does not have a specific future tense. It uses modal verbs, time words (adverbs), or just the present tense if the meaning is clear.
+Saxdan does not have a specific future tense. It uses modal verbs, time words (adverbs), or just the present tense if the meaning is clear.
 
 **Conditional:**  
 The language has a conditional form. To form it, start from the past tense, add an umlaut to the main vowel if possible, and end with **-e**.  
@@ -219,7 +219,7 @@ Form the perfect tense with **have + past participle** (just like English “hav
 Add **-(e)nd** to form the present participle (like “running” from “run” → “runnd”).
 
 **Optional Personal Endings (Old-Fashioned):**  
-Modern Germanisch doesn’t usually use personal verb endings. In a more “elevated” style, you might see:  
+Modern Saxdan doesn’t usually use personal verb endings. In a more “elevated” style, you might see:  
 - **-(e)st** for 2nd person singular  
 - **-(e)n** for all persons plural  
 - **-(e)t** for 3rd person singular present (not used with modals)  
@@ -281,7 +281,7 @@ For numbers above twenty, place the unit after the tens:
 <a href="#syntax"><h2 id="syntax">Syntax</h2></a>
 
 **Basic Word Order:**  
-Germanisch generally follows a **Subject – Verb – Object** word order.  
+Saxdan generally follows a **Subject – Verb – Object** word order.  
 - Statement: **Ik sie den mann.** (“I see the man.”)  
 - Question: **Sie ik den mann?** (“Do I see the man?”) — simply invert subject and verb.
 
@@ -317,11 +317,11 @@ Negated Perfect Construction:
 > Ik hav **nit** lesen et kwick in den skule disdag.  
 > *“I have not read that book quickly in the school on Tuesday.”*
 
-*(In summary, if you say “I have read,” you place **nit** after “hav” and any pronoun, just before the rest of the sentence. This is a slight difference from English, where we typically say “I have not read,” placing “not” immediately after “have.” In Germanisch, the pattern is similar but the exact position of **nit** may differ slightly.)*
+*(In summary, if you say “I have read,” you place **nit** after “hav” and any pronoun, just before the rest of the sentence. This is a slight difference from English, where we typically say “I have not read,” placing “not” immediately after “have.” In Saxdan, the pattern is similar but the exact position of **nit** may differ slightly.)*
 
 <a href="#derivation"><h2 id="derivation">Derivation</h2></a>
 
-Germanisch uses many affixes (prefixes and suffixes) to create new words, much like English does, but often in a more regular way.
+Saxdan uses many affixes (prefixes and suffixes) to create new words, much like English does, but often in a more regular way.
 
 | Affix  | Meaning/Use                          | Example                 |
 |--------|---------------------------------------|-------------------------|
@@ -342,7 +342,7 @@ Germanisch uses many affixes (prefixes and suffixes) to create new words, much l
 
 <table>
 <thead>
-<tr><th>Germanisch</th><th>English</th></tr>
+<tr><th>Saxdan</th><th>English</th></tr>
 </thead>
 <tbody>
 <tr>
@@ -463,7 +463,7 @@ Glad är den, som känner kinden rodna.
 Frågar du, hvem gladast är af alla?
 Den, som ser sin fästman med i ringen.
 
-Germanisch :
+Saxdan :
 Kommen met anemone den schöne Mai
 Mäid dere braune löck krans
 Hastend tu den ringdans um den maimast
