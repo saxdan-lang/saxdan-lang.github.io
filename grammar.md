@@ -4,8 +4,6 @@ As its name suggests, Saxdan (Saxon + Dane) is a pan-Germanic language that draw
 * Scandinavian languages
 * Continental Germanic languages ​​(German-Dutch spectrum) 
 
-<img src="/assets/germanishBlocks.png">
-
 <p>Table of Contents</p>
 <ul>
     <li><a href="#pronunciation">Pronunciation</a></li>
